@@ -1,5 +1,8 @@
 # KBC-Game
 
+This is an implementation of a fun QnA-type game in C language done as a coursework project (CS F111 COMPUTER PROGRAMMING).
+Instructor Incharge:- [Dr Pratik Narang](https://www.bits-pilani.ac.in/pilani/pratiknarang/profile)
+
 <br>
 
 ### Team:
